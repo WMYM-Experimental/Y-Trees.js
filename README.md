@@ -1,4 +1,4 @@
-# H-Tree.js
+# Y-Trees.js
 
 My try to do some Fractal Trees using **Recursion** in js
 
